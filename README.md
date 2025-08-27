@@ -4,7 +4,7 @@ This is an end to end project in an economy domain. A regression model has been 
 
 # Problem Description
 
-Many students, workers and even civil servant mostly face dificulties in the prices for renting or buying a house that can suit their need. as a result most people buy houses and later regret the expenditure because the money they spent on the house doesnt matches te quality of the house. At times even the seller often suffer high loss because the quality of the house is not equivalent to the token they recieve for the house.
+Many students, workers and even civil servant mostly face dificulties in the prices for renting or buying a house that can suit their need. as a result most people buy houses and later regret the expenditure because the money they spent on the house doesnt matches the quality of the house. At times even the seller often suffer high loss because the quality of the house is not equivalent to the token they recieve for the house.
 
 # Solution approach
 
